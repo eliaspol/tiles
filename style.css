@@ -1,5 +1,8 @@
-/* Photo 1 */
-
- #photo1 .thumbnail {
+div {
+	width: 500px;
+	height: 500px;
     background-image: url(https://www.flickr.com/gp/13542697@N05/U4A4Ek);
+	position: fixed;
+	top: 300;
+	left: 300;
 }
