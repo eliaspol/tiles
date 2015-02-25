@@ -1,0 +1,14 @@
+div {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+div:hover {
+	background-color: green;
+	transition: 1000ms ease;
+	-webkit-transition: 1000ms ease;
+}
