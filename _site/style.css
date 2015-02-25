@@ -3,12 +3,20 @@ div {
 	height: 100px;
 	background-color: blue;
 	position: fixed;
-	top: 0;
-	left: 0;
 }
 
 div:hover {
 	background-color: green;
 	transition: 1000ms ease;
 	-webkit-transition: 1000ms ease;
+}
+
+#one {
+	top: 0;
+	left: 0;
+}
+
+#two {
+	top: 200px;
+	left: 200px;
 }
