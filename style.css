@@ -1,7 +1,6 @@
 div {
 	width: 100px;
 	height: 100px;
-	background-color: blue;
 	position: fixed;
 }
 
@@ -12,6 +11,7 @@ div:hover {
 }
 
 #one {
+	background-image: url(https://www.flickr.com/gp/13542697@N05/U4A4Ek);
 	top: 0;
 	left: 0;
 }
